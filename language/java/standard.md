@@ -9,10 +9,10 @@
 ### 환경
 
 자바는 환경별로 다른 기능을 제공한다.
-- SE : Standard Edition. 기준이 되는 실행환경으로 데스크탑, 서버를 대상으로 한다.
-- ME : Micro Edition. SE에서 한정된 자원을 사용하며 모바일, 임베디드 환경을 대상으로 한다.
-- EE : Enterprise Edition. SE에서 웹 어플리케이션(서블릿, 자바 서버 페이지, 분산처리) 요소를 추가했다.
-- Card : 스마트 카드 환경을 대상으로 한다.
+- Java SE : Standard Edition. 기준이 되는 실행환경으로 데스크탑, 서버를 대상으로 한다. Java Platform이라고도 부른다.
+- Java EE : Enterprise Edition. SE에서 웹 어플리케이션(서블릿, 자바 서버 페이지, 분산처리) 요소를 추가했다. Java 2 Platform, J2EE(Java 2 Platform, Enterprise Edition)이라고도 부른다.
+- Java ME : Micro Edition. SE에서 한정된 자원을 사용하며 모바일, 임베디드 환경을 대상으로 한다.
+- Java Card : 스마트 카드 환경을 대상으로 한다.
 
 ### 버전
 
